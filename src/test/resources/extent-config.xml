@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+	<configuration>
+		<theme>dark</theme>
+		<enconding>UTF-8</enconding>
+		<protocol>https</protocol>
+		<documentType>VisionEase Application</documentType>
+		<reportName>Extent Report</reportName>
+		<testViewChartLocation>bottom</testViewChartLocation>
+	</configuration>
+</extentreports>
